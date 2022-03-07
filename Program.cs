@@ -6,7 +6,11 @@ namespace git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Quel est ton prénom ?");
+            string prenom = Console.ReadLine();
+
+            Console.WriteLine("Ton prenom est : " + prenom);
+            
         }
     }
 }
