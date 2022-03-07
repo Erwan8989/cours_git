@@ -11,6 +11,10 @@ namespace git
 
             Console.WriteLine("Ton prenom est : " + prenom);
             
+            Console.WriteLine("Quel est ton age ?");
+            string age = Console.ReadLine();
+
+            Console.WriteLine("Tu as " + age + " ans");
         }
     }
 }
