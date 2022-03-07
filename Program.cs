@@ -11,7 +11,7 @@ namespace git
 
             // Console.WriteLine("Ton prenom est : " + prenom);
             
-            Console.WriteLine(5 * 5);
+            Console.WriteLine(5 + 5);
         }
     }
 }
