@@ -1,0 +1,16 @@
+C:\Users\erwan\OneDrive\Documents\EPSI\B2\Cours\Git\bin\Debug\net5.0\git.exe
+C:\Users\erwan\OneDrive\Documents\EPSI\B2\Cours\Git\bin\Debug\net5.0\git.deps.json
+C:\Users\erwan\OneDrive\Documents\EPSI\B2\Cours\Git\bin\Debug\net5.0\git.runtimeconfig.json
+C:\Users\erwan\OneDrive\Documents\EPSI\B2\Cours\Git\bin\Debug\net5.0\git.runtimeconfig.dev.json
+C:\Users\erwan\OneDrive\Documents\EPSI\B2\Cours\Git\bin\Debug\net5.0\git.dll
+C:\Users\erwan\OneDrive\Documents\EPSI\B2\Cours\Git\bin\Debug\net5.0\ref\git.dll
+C:\Users\erwan\OneDrive\Documents\EPSI\B2\Cours\Git\bin\Debug\net5.0\git.pdb
+C:\Users\erwan\OneDrive\Documents\EPSI\B2\Cours\Git\obj\Debug\net5.0\git.csproj.AssemblyReference.cache
+C:\Users\erwan\OneDrive\Documents\EPSI\B2\Cours\Git\obj\Debug\net5.0\git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erwan\OneDrive\Documents\EPSI\B2\Cours\Git\obj\Debug\net5.0\git.AssemblyInfoInputs.cache
+C:\Users\erwan\OneDrive\Documents\EPSI\B2\Cours\Git\obj\Debug\net5.0\git.AssemblyInfo.cs
+C:\Users\erwan\OneDrive\Documents\EPSI\B2\Cours\Git\obj\Debug\net5.0\git.csproj.CoreCompileInputs.cache
+C:\Users\erwan\OneDrive\Documents\EPSI\B2\Cours\Git\obj\Debug\net5.0\git.dll
+C:\Users\erwan\OneDrive\Documents\EPSI\B2\Cours\Git\obj\Debug\net5.0\ref\git.dll
+C:\Users\erwan\OneDrive\Documents\EPSI\B2\Cours\Git\obj\Debug\net5.0\git.pdb
+C:\Users\erwan\OneDrive\Documents\EPSI\B2\Cours\Git\obj\Debug\net5.0\git.genruntimeconfig.cache
